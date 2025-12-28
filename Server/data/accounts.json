@@ -1,0 +1,42 @@
+{
+  "next_account_id": 10004,
+  "accounts": {
+    "testuser001": {
+      "accountId": 10001,
+      "password": "123456",
+      "created_at": "2025-12-24T23:17:05.600103",
+      "invite_code": "TEST2025",
+      "dev_info": {},
+      "recentLoginList": [],
+      "haveCharServerList": {},
+      "last_login": "2025-12-24T23:17:10.601966"
+    },
+    "player001": {
+      "accountId": 10002,
+      "password": "pass123",
+      "created_at": "2025-12-24T23:17:51.098929",
+      "invite_code": "WELCOME",
+      "dev_info": {},
+      "recentLoginList": [
+        {
+          "serverIndex": 1
+        }
+      ],
+      "haveCharServerList": {
+        "1": {
+          "level": 10,
+          "name": "勇者",
+          "headId": 1
+        }
+      },
+      "last_login": "2025-12-24T23:33:19.421188"
+    },
+    "sdk_user_282cf386": {
+      "accountId": 10003,
+      "password": "sdk_password",
+      "sdk_userID": "sdk_282cf386",
+      "recentLoginList": [],
+      "haveCharServerList": {}
+    }
+  }
+}
