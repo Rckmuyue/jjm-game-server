@@ -1,0 +1,21 @@
+{
+  "codes": {
+    "TEST2025": {
+      "used": true,
+      "used_by": "testuser001",
+      "created_at": "2025-12-24T23:15:43.004487",
+      "used_at": "2025-12-24T23:17:05.600124"
+    },
+    "WELCOME": {
+      "used": true,
+      "used_by": "player001",
+      "created_at": "2025-12-24T23:15:43.004501",
+      "used_at": "2025-12-24T23:17:51.098943"
+    },
+    "NEWBIE": {
+      "used": false,
+      "used_by": null,
+      "created_at": "2025-12-24T23:15:43.004505"
+    }
+  }
+}

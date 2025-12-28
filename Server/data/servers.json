@@ -1,0 +1,23 @@
+{
+  "updateAddr": "http://127.0.0.1:8080/update",
+  "downloadAddr": "http://127.0.0.1:8080/download",
+  "gameNotice": "欢迎来到游戏世界!",
+  "servers": [
+    {
+      "id": "1",
+      "serverName": "测试服务器1",
+      "ip": "127.0.0.1",
+      "port": "9997",
+      "state": "open",
+      "closeTips": "服务器维护中"
+    },
+    {
+      "id": "2",
+      "serverName": "测试服务器2",
+      "ip": "127.0.0.1",
+      "port": "9998",
+      "state": "open",
+      "closeTips": "服务器维护中"
+    }
+  ]
+}

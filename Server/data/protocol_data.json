@@ -1,0 +1,166 @@
+{
+    "3004": {
+        "uuid": 10001,
+        "uid": 1,
+        "name": "Manus-Player",
+        "mood": "Happy Gaming",
+        "exp": 100,
+        "level": 10,
+        "vipLevel": 1,
+        "vipExp": 0,
+        "gold": 99999,
+        "coin": 1000000,
+        "fame": 0,
+        "strength": 100,
+        "sweepItemNum": [10, 10, 10],
+        "climbTowerTimes": 3,
+        "TowerReliveTimes": 2,
+        "power": 5000,
+        "arenaCountData": 5,
+        "amphitheaterData": {
+            "enter_count": 0,
+            "win_count": 0,
+            "lose_count": 0
+        },
+        "twelvePalaceUnlockCount": 1,
+        "twelvePalaceBuyTimes": 0,
+        "dailyMultipleCopyCount": 0,
+        "chaimiyouyanCountData": [0, 0, 0, 0],
+        "twelvepalaceCount": 0,
+        "twelvepalaceInfo": "",
+        "couragetrial_daily_point": 0,
+        "couragetrialInfo": "",
+        "oldname": "",
+        "activepoint": {"totalNum": 0},
+        "fishEatTimes": 0,
+        "guidstr": "1|1|1|1|1|1|1|1|1|1"
+    },
+    "4002": {
+        "skillList": []
+    },
+    "5002": {
+        "buffList": []
+    },
+    "7002": {
+        "101": {
+            "treasure": [0, 0, 0],
+            "chapterStartTime": 12321321,
+            "chapterFinishTime": 0,
+            "stage": {
+                "10101": {
+                    "starState": 73,
+                    "challengeTimes": 0,
+                    "lastChallengeTime": 0,
+                    "trochoidIsVisible": 2
+                }
+            }
+        }
+    },
+    "7006": {
+        "palaceList": []
+    },
+    "7071": {
+        "strength": 100,
+        "maxStrength": 100,
+        "flag": 1
+    },
+    "7081": {
+        "courageList": []
+    },
+    "8002": {
+        "otherPlayerID": 10001,
+        "haveBuyList": [{"id": 101}],
+        "equiped": 101
+    },
+    "9002": {
+        "guildId": 0,
+        "guildName": "",
+        "role": 0
+    },
+    "14002": {
+        "rhymeList": []
+    },
+    "16002": {
+        "base": [
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]},
+            {"level": 0, "piece": 0, "star": 0, "equip": [0, 0, 0, 0, 0, 0]}
+        ],
+        "equip": []
+    },
+    "17002": [
+        {"id": 1, "level": 1, "stepLevel": 0, "gem": [0, -1, -1, -1, -1, -1], "pos": 1},
+        {"id": 2, "level": 1, "stepLevel": 0, "gem": [0, -1, -1, -1, -1, -1], "pos": 2},
+        {"id": 3, "level": 1, "stepLevel": 0, "gem": [0, -1, -1, -1, -1, -1], "pos": 3},
+        {"id": 4, "level": 1, "stepLevel": 0, "gem": [0, -1, -1, -1, -1, -1], "pos": 4},
+        {"id": 5, "level": 1, "stepLevel": 0, "gem": [0, -1, -1, -1, -1, -1], "pos": 5},
+        {"id": 6, "level": 1, "stepLevel": 0, "gem": [0, -1, -1, -1, -1, -1], "pos": 6}
+    ],
+    "18002": [],
+    "20002": {
+        "equipJewelrys": [0, 0, 0, -1, -1, -1],
+        "jewelryList": {}
+    },
+    "21002": [],
+    "22002": {
+        "servantswitch": 1,
+        "battleStone": 0,
+        "food1": 0,
+        "food2": 0,
+        "food3": 0,
+        "food4": 0,
+        "food5": 0,
+        "mainbattle": [0, 0, 0, 0, 0],
+        "assistbattle": [
+            {"equip": 0, "quality": 1},
+            {"equip": 0, "quality": 1},
+            {"equip": 0, "quality": 1},
+            {"equip": 0, "quality": 1},
+            {"equip": 0, "quality": 1},
+            {"equip": 0, "quality": 1},
+            {"equip": 0, "quality": 1}
+        ],
+        "treasure": [],
+        "servantData": []
+    },
+    "23002": {
+        "chatList": []
+    },
+    "26002": {
+        "friendList": []
+    },
+    "27002": {
+        "emailList": []
+    },
+    "29002": [
+        {"modelid": 1, "equipfashion": 101}
+    ],
+    "30002": {
+        "taskList": []
+    },
+    "31501": {
+        "result": 0,
+        "restChalTimes": 5,
+        "buyTimes": 0,
+        "curRank": 100,
+        "playerScore": 1000,
+        "sessions": 0,
+        "winSessions": 0,
+        "maskNum": 0,
+        "maskResetTimes": 0,
+        "lastIndex": 0,
+        "resIndex": 0,
+        "newReportFlag": 0,
+        "ends": [],
+        "otherRoleInfo": []
+    }
+}
