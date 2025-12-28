@@ -1,2 +1,33 @@
-# jjm-game-server
-This open-source project is a server implementation of Jing-Ju Cats, recreated by me based on the client-side logic.
+# 《京剧猫》手游自搭建服务器
+Language：中文 | English
+
+本开源项目是我基于客户端逻辑复刻的《京剧猫（Jing-Ju Cats）》服务器实现。目前仍存在较多问题，仅能保证客户端成功进入大厅，不保证游戏功能可正常游玩。
+
+# 功能实现
+✅版本号检查
+ 
+✅服务器列表下发
+ 
+✅登录界面公告系统
+ 
+✅渠道服SDK Token认证
+ 
+✅渠道服自动注册
+ 
+✅TCP账号数据封包
+ 
+❌完整的账号数据下发
+
+❌完整的账号数据上传
+ 
+❌聊天系统
+ 
+❌好友系统
+ 
+❌邮件系统
+ 
+等等....
+
+# 搭建
+
+撰写中...
